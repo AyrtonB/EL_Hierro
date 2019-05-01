@@ -1,4 +1,4 @@
-# EL_Hierro
+# El Hierro
 
 This repository contains the work used for a project evaluating the potential for renewable power on the island of El Hierro. The project analyses the current way in which the generation assets on El Hierro are being utilised and optimises a simulated grid with the intent of identifying the least cost path to achieve high renewable penetrations.
 
