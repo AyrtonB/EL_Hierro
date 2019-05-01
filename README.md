@@ -12,5 +12,6 @@ Data Sources:
 * Solar data was sourced from SunLab 
 
 Example Week:
-<img src="img/example_week.png" width="500"></img>
+
+<img src="img/example_week.png" width="500" align="center"></img>
 
