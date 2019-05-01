@@ -13,5 +13,6 @@ Data Sources:
 
 <p align="center">
   <img src="img/example_week.png" width="500"></img>
+  
   Figure 1. Example week
 </p>
